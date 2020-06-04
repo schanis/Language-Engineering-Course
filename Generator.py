@@ -7,7 +7,6 @@ from numpy import random
 
 """
 This file is part of the computer assignments for the course DD1418/DD2418 Language engineering at KTH.
-Created 2018 by Johan Boye and Patrik Jonell.
 """
 
 class Generator(object) :
