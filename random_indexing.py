@@ -15,8 +15,6 @@ This file is part of the computer assignments for the course DD1418/DD2418 Langu
 
 ##
 ## @brief      Class for creating word vectors using Random Indexing technique.
-## @author     Dmytro Kalpakchi <dmytroka@kth.se>
-## @date       November 2018
 ##
 class RandomIndexing(object):
 
